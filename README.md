@@ -6,5 +6,4 @@ Learn all about Fred
 
 
 Fred currently likes
-- eating leaves
-- sleeping
+- hanging out
