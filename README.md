@@ -7,3 +7,4 @@ Learn all about Fred
 Fred currently likes
 - flying
 - seeing new places
+- Spring Break in Mexico
