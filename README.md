@@ -8,3 +8,7 @@ Fred currently likes
 - flying
 - seeing new places
 - destroying Tokoyo with Mothra
+
+Fred's Friends
+- Mothra
+- Godzilla
