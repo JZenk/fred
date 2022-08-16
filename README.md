@@ -12,3 +12,4 @@ Fred currently likes
 Fred's Friends
 - Mothra
 - Godzilla
+- Steve Irwin
