@@ -2,7 +2,7 @@
 Learn all about Fred
 
 ## Fred is my pet
-![alt text](https://github.umn.edu/jennz/fred/blob/master/fred.jpg "Current image of Fred")
+![alt text](https://github.com/JZenk/fred/blob/master/fred.jpg "Current image of Fred")
 
 Fred currently likes
 - flying
